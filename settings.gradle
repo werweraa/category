@@ -1,0 +1,4 @@
+rootProject.name = 'category'
+include 'app-admin'
+include 'app-codiComplete'
+include 'domain-database'
